@@ -30,6 +30,10 @@ Since then, I've been continuously growing, tackling real-world challenges, and 
 ## 🔗 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafeezullahshaik)
 
+## 🏆 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/user4618XY?theme=dark&font=Karma&ext=heatmap)  
+
+
 ## 🎯 Fun Facts
 - 🚀 Love exploring new technologies
 - 🍲 Passionate about cooking
